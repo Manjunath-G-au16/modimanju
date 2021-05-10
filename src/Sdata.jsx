@@ -4,6 +4,9 @@ import jsc from "../src/images/js.png"
 import sass from "../src/images/sass.png"
 import react from "../src/images/reacct.png"
 import babel from "../src/images/babel.png"
+import nodeexp from "../src/images/nodeexp.png"
+import mongo from "../src/images/mongo.jpeg"
+import styled from "../src/images/styled.jpg"
 
 const Sdata = [
     {
@@ -15,8 +18,20 @@ const Sdata = [
         imgsrc: sass,
     },
     {
-        title: "BABEL",
+        title: "BABLE",
         imgsrc: babel,
+    },
+    {
+        title: "Express",
+        imgsrc: nodeexp,
+    },
+    {
+        title: "Styled Components",
+        imgsrc: styled,
+    },
+    {
+        title: "MongoDB",
+        imgsrc: mongo,
     },
     {
         title: "HTML",
